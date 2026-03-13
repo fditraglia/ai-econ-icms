@@ -80,7 +80,7 @@ body {
 .hero {
   background: var(--color-hero-bg);
   color: var(--color-hero-text);
-  padding: 80px 20px 64px;
+  padding: 80px 20px 24px;
   text-align: center;
 }
 
@@ -121,17 +121,12 @@ body {
   text-decoration-color: rgba(255,255,255,0.8);
 }
 
-.hero .artwork-placeholder {
+.hero-image {
   margin-top: 32px;
-  padding: 40px;
-  border: 2px dashed rgba(255,255,255,0.25);
-  border-radius: 12px;
-  color: rgba(255,255,255,0.4);
-  font-family: var(--font-heading);
-  font-size: 0.85rem;
-  max-width: 500px;
-  margin-left: auto;
-  margin-right: auto;
+  max-width: 100%;
+  width: 900px;
+  border-radius: 8px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.3);
 }
 
 /* ── Sections ─────────────────────────────────────────── */
