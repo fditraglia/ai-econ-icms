@@ -264,6 +264,9 @@ body {
 
 .schedule-table .break-row {
   color: var(--color-text-muted);
+}
+
+.schedule-table .break-row td:not(.time-col) {
   font-style: italic;
 }
 
@@ -415,6 +418,13 @@ body {
   font-size: 0.92rem;
   color: var(--color-text-muted);
   text-align: center;
+  text-decoration: none;
+  transition: border-color 0.2s, color 0.2s;
+}
+
+.sponsor-item:hover {
+  border-color: var(--color-accent-light);
+  color: var(--color-accent);
 }
 
 /* ── Footer ───────────────────────────────────────────── */
