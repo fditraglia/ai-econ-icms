@@ -110,6 +110,17 @@ body {
   opacity: 0.75;
 }
 
+.hero .venue-line a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-color: rgba(255,255,255,0.4);
+}
+
+.hero .venue-line a:hover {
+  text-decoration-color: rgba(255,255,255,0.8);
+}
+
 .hero .artwork-placeholder {
   margin-top: 32px;
   padding: 40px;
