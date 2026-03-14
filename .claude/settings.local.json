@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "WebFetch(domain:icms.ac.uk)",
-      "WebFetch(domain:users.ox.ac.uk)"
-    ]
-  }
-}
