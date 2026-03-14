@@ -382,25 +382,25 @@ body {
 }
 
 /* ── Organisers ───────────────────────────────────────── */
-.organiser-grid {
+.organizer-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 20px;
 }
 
-.organiser-card {
+.organizer-card {
   text-align: center;
   padding: 20px 12px;
 }
 
-.organiser-card .name {
+.organizer-card .name {
   font-family: var(--font-heading);
   font-weight: 600;
   font-size: 1rem;
   margin-bottom: 4px;
 }
 
-.organiser-card .affil {
+.organizer-card .affil {
   font-size: 0.88rem;
   color: var(--color-text-muted);
 }
