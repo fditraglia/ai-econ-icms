@@ -104,14 +104,14 @@
 ### Thursday 19 March 2026
 | Time | Event |
 |---|---|
-| 09:30--10:15 | **Keynote:** Annie Liang, Northwestern -- *Using Machine Learning to Generate, Clarify, and Improve Economic Models* |
+| 09:30--10:15 | Groups work |
 | 10:15--10:45 | Coffee Break |
 | 10:45--11:00 | Nida Jamil, U. Limerick -- *Asymmetrical Algorithmic Pricing Frequencies and Market Power: A Q-learning Approach* |
 | 11:00--11:15 | Daria Godorozha, LSE + Sam Inman-Altass, LSE -- *Reinforcement Learning-Driven Development of Utility-Maximization Functions for Rational Agents* |
 | 11:15--11:45 | Coffee Break |
 | 11:45--12:45 | Groups work |
 | 12:45--14:00 | Lunch |
-| 14:00--14:45 | Groups work |
+| 14:00--14:45 | **Keynote:** Annie Liang, Northwestern -- *Using Machine Learning to Generate, Clarify, and Improve Economic Models* |
 | 14:45--15:15 | Coffee Break |
 | 15:15--16:00 | Groups work |
 
